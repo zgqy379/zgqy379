@@ -14,6 +14,7 @@
 
 ## ✍️ 最近的文章
 
+- [CPU 满载却查不出元凶：一次进程创建风暴的排查复盘](https://zhugeqingyun.pages.dev/blog/deveco-cpu-storm/)
 - [高级网络工程师的修炼手册：从百兆园区网到万卡算力集群](https://zhugeqingyun.pages.dev/blog/network-engineer-experience/)
 - [万卡 GPU 集群建设和运维指南](https://zhugeqingyun.pages.dev/blog/gpu-cluster-ops-guide/)
 - [AI 时代的思考：我们到底应该具备哪些能力](https://zhugeqingyun.pages.dev/blog/ai-era-abilities/)
